@@ -3,9 +3,11 @@
   background-color: #000000;
   border-color: #000000;
 }
+
 .navbar-inverse .navbar-nav > li > a {
   color: #E7E7E7;
 }
+
 .navbar-inverse .navbar-nav > .active > a, .oe_menu_toggler:hover, .navbar-inverse .navbar-nav > .active > a:hover$
   color: #E97B2E;
 }
@@ -33,7 +35,7 @@
   border-radius: 0;
 }
 
-.openerp .nav-pills > li.active a:hover, .openerp .nav-pills > li.active a:focus, .openerp a.list-group-item.activ$
+.openerp .nav-pills > li.active a:hover, .openerp .nav-pills > li.active a:focus, .openerp a.list-group-item.active
   background-color: #E97B2E;
 }
 
