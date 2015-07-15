@@ -56,3 +56,8 @@
 .oe_form_sheet_width  {
   max-width: 1300px;
 }
+
+.navbar .oe_topbar_name {
+  max-width: 250px;
+}
+}
